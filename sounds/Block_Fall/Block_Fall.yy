@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Block_Fall",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":0.11664399,
+  "exportDir":"",
+  "name":"Block_Fall",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"Block_Fall.wav",
+  "volume":1.0,
+}

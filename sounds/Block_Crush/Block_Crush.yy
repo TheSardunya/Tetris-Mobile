@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Block_Crush",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":1.2328345,
+  "exportDir":"",
+  "name":"Block_Crush",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"Block_Crush.wav",
+  "volume":1.0,
+}
